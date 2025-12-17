@@ -1,0 +1,15 @@
+header{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: fit-content;
+  z-index: 3;
+  padding: 1rem;
+}
+
+.logo-container{
+    font-size: 1rem;
+    font-weight: 700;
+    color: rgb(52, 0, 104);
+}
