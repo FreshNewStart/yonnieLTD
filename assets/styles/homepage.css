@@ -105,10 +105,9 @@
     font-size: 0.9rem;
     color: #00000099;
 }
-.services-section .button-container{
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
+.services-section .button1{
+    margin-right: auto;
+    margin-top: .5rem;
 }
 
 /*Safety and Compliance Section*/
