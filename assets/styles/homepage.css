@@ -82,10 +82,11 @@
 .services-pic{
     width: 100%;
     height: 40%;
-    background-image: url(../images/services1.png);
-    background-repeat: no-repeat;
-    background-size: contain;
 } 
+.services-pic img{
+    width: 100%;
+    height: auto;
+}
 .services-section h2{
     font-size: 1.4rem;
     font-weight: 600;
