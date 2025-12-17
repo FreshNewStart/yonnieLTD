@@ -114,7 +114,7 @@
 .safety-section{
     width: 100%;
     height: fit-content;
-    padding: 5rem 2rem;
+    padding: 5rem 2rem 5rem 2rem;
 }
 .safety-section h2{
     font-size: 1.4rem;
@@ -150,6 +150,9 @@
     font-size: 1.7rem;
     color: limegreen;
 }
+.secondp{
+    margin-bottom: 2rem;
+}
 .safety-section .button1{
-    margin: 5rem 0;
+
 }
